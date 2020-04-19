@@ -1,3 +1,13 @@
+<!--
+ * @Author: seth
+ * @Date: 2020-04-19 19:04:35
+ * @LastEditTime: 2020-04-19 19:53:47
+ * @LastEditors: Please set LastEditors
+ * @Description: README
+ * @FilePath: \vue3-experiment\README.md
+ -->
+# vue-next-demo
+# vue3.0
 # vue-next-webpack-preview
 
 > Minimal webpack setup for Vue 3 (beta) 
@@ -24,5 +34,4 @@ npm run dev
 # transpile js for deployment
 npm run build
 ```
-# vue-next-demo
-# vue3.0
+
